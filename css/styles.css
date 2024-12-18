@@ -1,0 +1,8 @@
+.title textarea, .details textarea {
+    border: 0cap;
+    text-align: center;
+}
+
+.border-hidden {
+    border: 0cap;
+}
